@@ -1,0 +1,64 @@
+.green{
+	width: 600px;
+	height: 300px;
+	background-color: #139F44;
+	position: absolute;
+	opacity: 5;
+}
+.line {
+    width: 568px;
+    height: 263px;
+    border: 2px solid white;
+    margin-top: 17px;
+    margin-left: 14px;
+    position: relative;
+}
+
+.goal{
+	width: 62px;
+    height: 112px;
+    border: 2px solid white;
+    display: inline-block;
+    position: relative;
+    top: 58px;
+}
+.one{
+	margin-left: -2px;
+	top:68px;
+}
+.two{
+	margin-left: 436px;
+    position: absolute;
+    top: 66px;
+}
+.circle{
+	width: 91px;
+    height: 94px;
+    border: 2px solid white;
+    display: inline-block;
+    position: relative;
+    margin-left: 217px;
+    top: 50px;
+    left: -49px;
+    border-radius: 100%;
+}
+.ball{	
+    width: 13px;
+    height: 13px;
+    border: 0;
+    background-color: #F0EAEA;
+    border-radius: 100%;
+    position: absolute;
+}
+.first{
+	left: 52px;
+	top:72px;
+}
+.second{
+	left: 285px;
+	top: 44px;
+}
+.third{
+	left: 488px;
+	top: 155px;
+}
